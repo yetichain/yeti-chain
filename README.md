@@ -1,12 +1,12 @@
-## Reef Chain
+## YETI Chain
 Reef chain is written in [Rust](https://www.rust-lang.org/). A basic familiarity with Rust tooling is required.
 
-To learn more about Reef chain, please refer to **[Documentation](https://docs.reef.io/)**.
+To learn more about Reef chain, please refer to **[Documentation](https://docs.yetichain.com/)**.
 
 ### Clone
 To clone the repo with its submodules run:
 ```bash
-git clone --recursive https://github.com/reef-defi/reef-chain
+git clone --recursive https://github.com/yetichain/yeti-chain
 ```
 
 ### Rust Setup
@@ -129,7 +129,7 @@ Build the wasm runtime with:
 make wasm
 ```
 
-### Fork reef-chain
+### Fork yeti-chain
 
 You can create a fork of a live chain (testnet / mainnet) for development purposes.
 
